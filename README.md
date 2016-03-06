@@ -1,4 +1,4 @@
-Comité des Producteurs d'Actions Militantes
+Comité Populaire d'Actions Militantes
 ===========================================
 
 Le contenu de ce dépot est sous licence [Creative Commons Zero V1.0](https://creativecommons.org/publicdomain/zero/1.0/).
